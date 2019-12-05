@@ -1,6 +1,6 @@
-package com.craftincode.exam.intermediate;
+package com.craftincode.exam.intermediate.algorithms;
 
-import com.craftincode.exams.intermediate.Primes;
+import com.craftincode.exams.intermediate.algorithms.Primes;
 import org.junit.Assert;
 import org.junit.Test;
 

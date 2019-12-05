@@ -1,4 +1,4 @@
-package com.craftincode.exams.intermediate;
+package com.craftincode.exams.intermediate.algorithms;
 
 import java.util.ArrayList;
 import java.util.List;
